@@ -1,0 +1,7 @@
+{
+    "token": "yourtoken",
+    "spam" : "@everyone",
+    "channel" : "leaked",
+    "role" : "Leaked",
+    "blacklist" : "id"
+}
